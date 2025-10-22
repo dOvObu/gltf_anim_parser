@@ -4,6 +4,7 @@
 
 В этом репозитории находится парсер и вьювер gltf анимаций написанный на c++
 Он зависит от этих библиотек:
+- glad
 - glew
 - nlohmann/json
 - ReneNyffenegger/cpp-base64
