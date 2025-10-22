@@ -7,6 +7,8 @@
 Он зависит от этих библиотек:
 - glad
 - glew
+- glm
+- stb_image
 - nlohmann/json
 - ReneNyffenegger/cpp-base64
 
