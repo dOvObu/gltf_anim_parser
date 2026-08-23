@@ -28,7 +28,6 @@ int main()
   GLTF model;
   model.LoadFromHDDToRAM("some_model.gltf");
   
-  float time = 0.f;
   while (w.IsOpened())
   {
     float time = glfwGetTime();
